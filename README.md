@@ -7,4 +7,5 @@ this calculation scales with the player's skill level; as a player's skill incre
 ### Bindings
 
 Using miausu-pp from other languages than Rust (refx's py): <br>
-Python: [refx-pp-py](https://github.com/refx-online/refx-pp-py)"# miausu-pp-rs" 
+Python: [refx-pp-py](https://github.com/refx-online/refx-pp-py)"
+# miausu-pp-rs" 
